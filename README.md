@@ -25,10 +25,12 @@
 [Результат выполнения](https://docs.google.com/document/d/1xZkup5xxdAEsbL-Ngo8IoTC9UixD3QhtXYPjnprAado/edit?usp=drive_link)
 
 7. Мад Софт
+   
 [Задание](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/web_testing.md)
+
 [Результат выполнения](https://docs.google.com/spreadsheets/d/1g4cmDJdLpTQVadTGmxo_6vp3CkbOHtAfkAg-j0pKThE/edit?gid=0#gid=0)
 
-8. АТОН
+9. АТОН
    
 [Задание](https://docs.google.com/document/d/1U4A3cyC3J2262QZyAeEYOPr7fhlV4KPX9YmCTFhBmWE/edit?usp=drive_link)
 
