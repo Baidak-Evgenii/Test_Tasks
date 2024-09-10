@@ -59,3 +59,10 @@
 [Задание](https://drive.google.com/drive/folders/1JklCRwSOevJRxAJl1kafHNXg6LHdPxJR?usp=drive_link)
 
 [Результат выполнения](https://drive.google.com/drive/folders/19PsfLTyepqAP9sdyLiJcEHpn7NO2ywk5?usp=drive_link)
+
+16. Renue
+
+[Задание](https://drive.google.com/drive/folders/1Di2Sh1hNjTLYxvd94NbBdVhidEyEjKOE?usp=drive_link)
+
+[Результат выполнения](https://drive.google.com/drive/folders/15RzttsYhdPpN_1dvQHzuSizZ3qL3Rkj7?usp=drive_link)
+
