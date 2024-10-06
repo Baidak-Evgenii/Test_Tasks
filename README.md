@@ -70,4 +70,4 @@
 
 [Задание](https://drive.google.com/drive/folders/194L_TB4V0pwSSaN54OLl_Xw4z1J3Q_Qu?usp=drive_link)
 
-[Результат выполнения](https://docs.google.com/spreadsheets/d/1YpUoKeKpOihP2Bk9wIYDxKgx9XOVYUTXHVPSVfXQ9DY/edit?usp=drive_link)
+[Результат выполнения]()
